@@ -1,0 +1,4 @@
+编辑谁的 vim /etc/inittab 
+
+开机直接进入命令行行模式：systemctl set-default   multi-user.target
+开机直接进入图形化界面：systemctl set-default   graphical.target
