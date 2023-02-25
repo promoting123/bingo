@@ -10,3 +10,6 @@
 
 4 k8s 官方文档
 	https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
+
+5 科学上网v2ry 部署过程
+	https://yearliny.com/v2ray-complete-tutorial/
