@@ -1,1 +1,12 @@
-https://blog.csdn.net/inthat/article/details/123057908
+1 说明文档
+	https://blog.csdn.net/inthat/article/details/123057908
+
+2 cka模拟考试文档
+	https://gengwg.blogspot.com/2022/02/cka-simulator-kubernetes-122.html   （需要科学上网）
+	https://killer.sh/
+
+3  cka考题  （总结）
+	https://blog.csdn.net/qq_39565646/article/details/121897065
+
+4 k8s 官方文档
+	https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
