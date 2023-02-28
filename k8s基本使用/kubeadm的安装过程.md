@@ -83,4 +83,16 @@ sudo systemctl enable --now kubelet
 
 
 
+> - **注意**
+
+> 将selinux设置为permissive，是为了保证让容器访问本机的文件系统
+>
+> 在设置下载yum源的baseurl,先查看下本机的指令集
+
+```shell
+#查看本机的指令集
+uname -m 
+```
+
+> - baseurl=https://mirrors.aliyun.com/kubernetes/yum/repos/kubernetes-el7-x86_64/
 
