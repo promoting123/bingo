@@ -10,8 +10,8 @@ kubectl version --client --output=yaml
 
 ```shell
 kubectl cluster-info 
+kubectl cluster-info dump
 ```
-
 
 
 
