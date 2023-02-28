@@ -13,6 +13,12 @@
 > 每虚拟机或主机需要有独立的主机名，MAC地址及uuid
 
 ```shell
+#设置主机名,追加至主机名的那个配置文件
+echo "master" > /etc/hostname
+
+#更改主机名配置生效
+hostname master
+
 #查看主机的mac地址
 iplink 
 #查看主机的uuid，以下两种方式都可以查看uuid
